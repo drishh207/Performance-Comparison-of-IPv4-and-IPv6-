@@ -1,4 +1,4 @@
-# Performance-Comparison-of-IPv4-and-IPv6-
+# Performance Comparison of IPv4 and IPv6
 
 **Aim**: In this study, we are comparing the performance of IPv4 and IPv6 for around 100 websites, by sending regular ping commands to the respective IP addresses for a week from different ISPs (Jio, Airtel, VI) and then analysing the data to get insights
 
